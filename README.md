@@ -1,1 +1,1 @@
-bla bla bla
+A non-empty readme
